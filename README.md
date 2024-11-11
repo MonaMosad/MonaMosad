@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm MONA MOSAD 👋</h1>  
 
 <p align="center">  
-  <img src="https://media.giphy.com/media/hvRJAXfBlT5mBbqR49/giphy.gif" width="200" height="200"/>  
+  <img src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif" width="200" height="200"/>  
 </p>  
 
 <p align="center">  
