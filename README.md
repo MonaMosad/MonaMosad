@@ -31,7 +31,7 @@
 
 ## 📚 Learning Goals  
 
-- Master advanced concepts in **C#** and **C++**  
+- Master advanced concepts in **C#**   
 - Gain a deeper understanding of **Data Structures** and algorithm complexity  
 - Explore database management systems and effective data storage solutions  
 - Build more projects  
